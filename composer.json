@@ -1,0 +1,25 @@
+{
+    "name": "iungoweb/terminal",
+    "description": "Um simples utilitário para facilitar a exibição de mensagens no terminal enquanto o PHP é utilizado via linha de comando.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Iungo Web",
+            "email": "falarcom@iungoweb.io",
+			"homepage": "https://iungoweb.io"
+        },
+        {
+            "name": "Mateus Fernandes",
+            "email": "mf@iungoweb.io",
+			"homepage": "https://mfmello.com.br"
+        }
+    ],
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"IungoWeb": "src/"
+		}
+	},
+	"minimum-stability": "dev"
+}
