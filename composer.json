@@ -18,7 +18,7 @@
     "require": {},
 	"autoload": {
 		"psr-4": {
-			"IungoWeb": "src/"
+			"IungoWeb\\": "src/"
 		}
 	},
 	"minimum-stability": "dev"
