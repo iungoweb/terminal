@@ -1,5 +1,5 @@
 {
-    "name": "iungoweb/terminal",
+    "name": "iungo-web/terminal",
     "description": "Um simples utilitário para facilitar a exibição de mensagens no terminal enquanto o PHP é utilizado via linha de comando.",
     "type": "library",
     "license": "MIT",
