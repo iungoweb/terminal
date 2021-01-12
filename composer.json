@@ -7,12 +7,14 @@
         {
             "name": "Iungo Web",
             "email": "falarcom@iungoweb.io",
-			"homepage": "https://iungoweb.io"
+			"homepage": "https://iungoweb.io",
+			"role": "Empresa proprietária"
         },
         {
             "name": "Mateus Fernandes",
             "email": "mf@iungoweb.io",
-			"homepage": "https://mfmello.com.br"
+			"homepage": "https://mfmello.com.br",
+			"role": "Desenvolvedor"
         }
     ],
     "require": {},
